@@ -2,16 +2,16 @@
 
 🎯 **Data Analyst | SQL • Python • Power BI**
 
-I analyze data to uncover insights, identify revenue drivers, and support data-driven business decisions.
+I analyze data to identify revenue drivers, uncover inefficiencies, and support data-driven decision-making.
 
 ---
 
 ## 🔍 What I Do
 
 * Perform data cleaning, transformation, and analysis
-* Identify trends, patterns, and inefficiencies
-* Analyze business performance (sales, customers, revenue)
-* Build dashboards to communicate insights clearly
+* Identify trends, patterns, and business insights
+* Analyze sales, customer, and operational data
+* Build dashboards for decision-making
 
 ---
 
@@ -19,7 +19,7 @@ I analyze data to uncover insights, identify revenue drivers, and support data-d
 
 * **SQL** – Joins, Aggregations, CTEs
 * **Python** – Pandas, NumPy, EDA
-* **Power BI / Tableau** – Interactive Dashboards
+* **Power BI / Tableau** – Dashboarding
 * **Excel** – Data Cleaning, Pivot Tables
 
 ---
@@ -30,7 +30,7 @@ I analyze data to uncover insights, identify revenue drivers, and support data-d
 
 * Identified **revenue drivers and outlet inefficiencies**
 * Detected underperforming outlets and product categories
-* Provided insights to improve sales and operations
+* Provided actionable insights for business improvement
 
 ---
 
@@ -44,30 +44,30 @@ I analyze data to uncover insights, identify revenue drivers, and support data-d
 
 ### 💳 Credit Card Data Analysis
 
-* Explored customer spending behavior and transaction patterns
-* Identified key customer segments and trends
+* Explored customer spending behavior
+* Identified key customer segments and usage patterns
 
 ---
 
 ### 🎬 Netflix Content Analysis (SQL)
 
-* Analyzed content distribution by genre, country, and year
-* Identified trends in content growth
+* Analyzed content trends by genre, country, and release year
+* Identified patterns in content growth
 
 ---
 
 ### 🌦️ Weather Dashboard (Power BI)
 
 * Built an interactive dashboard for weather insights
-* Enabled quick analysis of temperature and conditions
+* Enabled quick visualization of temperature trends
 
 ---
 
 ## 🚀 What Makes Me Different
 
-* Focus on **business insights, not just code**
-* Strong ability to connect data with decision-making
-* Hands-on experience with real-world datasets
+* Focus on **business insights, not just coding**
+* Strong understanding of real-world data problems
+* Ability to connect analysis with decision-making
 
 ---
 
